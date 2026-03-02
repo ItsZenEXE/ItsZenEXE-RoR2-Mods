@@ -1,11 +1,11 @@
 {
 	"name": "ItsZenEXEs_Ping_And_UI_Improvements",
 	"description": "A Part of @ItsZenEXE's modpack which edits the in-game UI and Pings to be more informative and user-friendly.",
-	"version_number": "4.3.0",
+	"version_number": "4.3.1",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2121",
 		"RiskofThunder-R2API_Language-1.1.0",
-		"RiskofThunder-R2API_Core-5.2.0"
+		"RiskofThunder-R2API_Core-5.3.0"
 	],
 	"website_url": "https://github.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/"
 }

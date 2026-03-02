@@ -1,21 +1,21 @@
 {
 	"name": "ItsZenEXEs_ROR2_Modpack",
 	"description": "@ItsZenEXE's Modpack which edits the UI, Pings, and Logbook descriptions to be more informative and user-friendly.",
-	"version_number": "4.3.0",
+	"version_number": "4.3.1",
 	"dependencies": [
-		"ItsZenEXE-ItsZenEXEs_Ping_And_UI_Improvements-4.3.0",
-		"ItsZenEXE-ItsZenEXEs_Logbook_Extended_Info-4.3.0",
-		"ItsZenEXE-ItsZenEXEs_Characters_Extended_Info-4.3.0",
+		"ItsZenEXE-ItsZenEXEs_Ping_And_UI_Improvements-4.3.1",
+		"ItsZenEXE-ItsZenEXEs_Logbook_Extended_Info-4.3.1",
+		"ItsZenEXE-ItsZenEXEs_Characters_Extended_Info-4.3.1",
 
 		"bbepis-BepInExPack-5.4.2121",
 		"RiskofThunder-R2API_Language-1.1.0",
 
-		"RiskofThunder-R2API_Core-5.2.0",
+		"RiskofThunder-R2API_Core-5.3.0",
 		"RiskofThunder-BepInEx_GUI-3.0.3",
 		"RiskofThunder-FixPluginTypesSerialization-1.0.4",
-		"RiskofThunder-RoR2BepInExPack-1.40.0",
+		"RiskofThunder-RoR2BepInExPack-1.42.0",
 		"RiskofThunder-HookGenPatcher-1.2.9",
-		"score-MiscFixes-1.5.1",
+		"score-MiscFixes-1.5.9",
 		"pseudopulse-SeekersPatcher-1.4.1"
 	],
 	"website_url": "https://github.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/"
