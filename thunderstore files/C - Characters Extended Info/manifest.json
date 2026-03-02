@@ -1,0 +1,11 @@
+{
+	"name": "ItsZenEXEs_Characters_Extended_Info",
+	"description": "A Part of @ItsZenEXE's modpack which edits the character select screen's and in-game UI's descriptions of abilities to be more informative and user-friendly.",
+	"version_number": "4.3.0",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2121",
+		"RiskofThunder-R2API_Language-1.1.0",
+		"RiskofThunder-R2API_Core-5.2.0"
+	],
+	"website_url": "https://github.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/"
+}
