@@ -1,6 +1,12 @@
 # Changelog
 
-## 4.3.0 (Current Patch)
+## 4.3.1 (Current Patch)
+
+- Updated github links
+- Updated README slightly
+- Updated Dependencies
+
+## 4.3.0
 
 - Updated for current patch (1.4.1)
 - Reorganized internally for my own sake
