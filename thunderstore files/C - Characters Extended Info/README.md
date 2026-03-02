@@ -17,11 +17,11 @@ In this portion of the modpack you'll find:
 
 ## Screenshots / Examples
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/characters/commando-skills.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/characters/commando-skills.png)]()
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/characters/commando-overview.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/characters/commando-overview.png)]()
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/characters/bandit-loadout-hover.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/characters/bandit-loadout-hover.png)]()
 
 ## Credits & Contacts
 

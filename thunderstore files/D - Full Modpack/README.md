@@ -14,15 +14,15 @@ For more detailed change lists, you can check out the individual mod's pages!
 
 ## Screenshots / Examples
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/pings%20and%20ui/Pings%20Preview%201.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/pings%20and%20ui/Pings%20Preview%201.png)]()
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/pings%20and%20ui/shrines-examples.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/pings%20and%20ui/shrines-examples.png)]()
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/characters/bandit-loadout-hover.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/characters/bandit-loadout-hover.png)]()
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/logbook/Focused%20Convergence.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/logbook/Focused%20Convergence.png)]()
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/logbook/ingame-logbook-example-equipment.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/logbook/ingame-logbook-example-equipment.png)]()
 
 ## Credits & Contacts
 

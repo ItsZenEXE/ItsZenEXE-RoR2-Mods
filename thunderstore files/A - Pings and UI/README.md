@@ -39,13 +39,13 @@ In this portion of the modpack you'll find:
 
 ## Screenshots / Examples
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/pings%20and%20ui/Pings%20Preview%201.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/pings%20and%20ui/Pings%20Preview%201.png)]()
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/pings%20and%20ui/shrines-examples.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/pings%20and%20ui/shrines-examples.png)]()
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/pings%20and%20ui/Lunar-Coin.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/pings%20and%20ui/Lunar-Coin.png)]()
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/pings%20and%20ui/primordial.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/pings%20and%20ui/primordial.png)]()
 
 ## Credits & Contacts
 

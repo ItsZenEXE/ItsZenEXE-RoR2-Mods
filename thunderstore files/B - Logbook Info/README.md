@@ -21,13 +21,13 @@ In this portion of the modpack you'll find:
 
 ## Screenshots / Examples
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/logbook/ToughTimes.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/logbook/ToughTimes.png)]()
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/logbook/Focused%20Convergence.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/logbook/Focused%20Convergence.png)]()
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/logbook/ingame-logbook-example.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/logbook/ingame-logbook-example.png)]()
 
-[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/logbook/ingame-logbook-example-equipment.png)]()
+[![](https://raw.githubusercontent.com/ItsZenEXE/ItsZenEXE-RoR2-Mods/refs/heads/main/screenshots/logbook/ingame-logbook-example-equipment.png)]()
 
 ## Credits & Contacts
 
