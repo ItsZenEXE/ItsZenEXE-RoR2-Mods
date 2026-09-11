@@ -18,7 +18,7 @@
         "ECLIPSE_5_DESCRIPTION": "<style=cSub><mspace=0.5em>(1)</mspace> Monsoon + Allies start every stage at <style=cIsHealth>-50%</style> health\n<mspace=0.5em>(2)</mspace> Teleporter <sprite name=\"TP\" tint=1> Radius: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(3)</mspace> Ally Fall Damage: <style=cIsHealth>+100% and lethal</style> \n<mspace=0.5em>(4)</mspace> Enemy Movement Speed: <style=cIsHealth>+40%</style> \n<mspace=0.5em>(5)</mspace> Ally Healing & Regeneration: <style=cIsHealth>-50%</style></style>",
         "ECLIPSE_6_DESCRIPTION": "<style=cSub><mspace=0.5em>(1)</mspace> Monsoon + Allies start every stage at <style=cIsHealth>-50%</style> health\n<mspace=0.5em>(2)</mspace> Teleporter <sprite name=\"TP\" tint=1> Radius: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(3)</mspace> Ally Fall Damage: <style=cIsHealth>+100% and lethal</style> \n<mspace=0.5em>(4)</mspace> Enemy Movement Speed: <style=cIsHealth>+40%</style> \n<mspace=0.5em>(5)</mspace> Ally Healing & Regeneration: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(6)</mspace> Enemy Gold Drops: <style=cIsHealth>-20%</style></style>",
         "ECLIPSE_7_DESCRIPTION": "<style=cSub><mspace=0.5em>(1)</mspace> Monsoon + Allies start every stage at <style=cIsHealth>-50%</style> health\n<mspace=0.5em>(2)</mspace> Teleporter <sprite name=\"TP\" tint=1> Radius: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(3)</mspace> Ally Fall Damage: <style=cIsHealth>+100% and lethal</style> \n<mspace=0.5em>(4)</mspace> Enemy Movement Speed: <style=cIsHealth>+40%</style> \n<mspace=0.5em>(5)</mspace> Ally Healing & Regeneration: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(6)</mspace> Enemy Gold Drops: <style=cIsHealth>-20%</style> \n<mspace=0.5em>(7)</mspace> Enemy Cooldowns: <style=cIsHealth>-50%</style></style>",
-        "ECLIPSE_8_DESCRIPTION": "\"You only celebrate in the light... because I allow it.\"\n\n<style=cSub><mspace=0.5em>(1)</mspace> Monsoon + Allies start every stage at <style=cIsHealth>-50%</style> health\n<mspace=0.5em>(2)</mspace> Teleporter <sprite name=\"TP\" tint=1> Radius: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(3)</mspace> Ally Fall Damage: <style=cIsHealth>+100% and lethal</style> \n<mspace=0.5em>(4)</mspace> Enemy Movement Speed: <style=cIsHealth>+40%</style> \n<mspace=0.5em>(5)</mspace> Ally Healing & Regeneration: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(6)</mspace> Enemy Gold Drops: <style=cIsHealth>-20%</style> \n<mspace=0.5em>(7)</mspace> Enemy Cooldowns: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(8)</mspace> Allies recieve <style=cIsHealth>\"permanent\" damage</style></style>",
+        "ECLIPSE_8_DESCRIPTION": "\"You only celebrate in the light... because I allow it.\"\n\n<style=cSub><mspace=0.5em>(1)</mspace> Monsoon + Allies start every stage at <style=cIsHealth>-50%</style> health\n<mspace=0.5em>(2)</mspace> Teleporter <sprite name=\"TP\" tint=1> Radius: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(3)</mspace> Ally Fall Damage: <style=cIsHealth>+100% and lethal</style> \n<mspace=0.5em>(4)</mspace> Enemy Movement Speed: <style=cIsHealth>+40%</style> \n<mspace=0.5em>(5)</mspace> Ally Healing & Regeneration: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(6)</mspace> Enemy Gold Drops: <style=cIsHealth>-20%</style> \n<mspace=0.5em>(7)</mspace> Enemy Cooldowns: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(8)</mspace> Allies receive <style=cIsHealth>\"permanent\" damage</style></style>",
 
         "BG__OT": "----Objectives / Teleporter----",
         "TELEPORTER_BEGIN_CONTEXT": "Activate <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>..?",
@@ -45,8 +45,8 @@
         "NEWT_STATUE_DESCRIPTION": "Costs <style=cIsLunar>1 <sprite name=\"LunarCoin\" tint=1>Lunar Coin</style> to activate and will spawn a blue portal after the Teleporter Event allowing the player to travel to the Bazaar Between Time.",
 
         "BG__S": "----Shrines----",
-        "SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine><style=cDeath>{0} feels a searing pain,</style> <style=cShrine>and has gained {1} gold.</style></style>",
-        "SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine><style=cDeath>You feel a searing pain.</style> <style=cShrine>You have gained {1} gold.</style></style>",
+        "SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine><style=cDeath>{0} feels a searing pain,</style> and has gained {1} gold.</style>",
+        "SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine><style=cDeath>You feel a searing pain.</style> You have gained {1} gold.</style>",
         "SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine><b>Let the <style=cWorldEvent>challenge of the Mountain...</style> begin!</b></style>",
         "SHRINE_BOSS_END_TRIAL": "<style=cShrine><b>Your <style=cWorldEvent>bravery</style> is rewarded!</b></style>",
         "SHRINE_BOSS_USE_MESSAGE": "<style=cShrine><b>{0} has invited the <style=cWorldEvent>challenge of the Mountain..</style></b></style>",
@@ -83,7 +83,7 @@
         "BG__BSD": "----Bazzar Seer / Dreams----",
         "BAZAAR_SEER_BLACKBEACH": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of waves, crashing on cliffsides.   <sprite name=\"CloudLeft\" tint=1></style></b>",
         "BAZAAR_SEER_GOLEMPLAINS": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of rolling hills.   <sprite name=\"CloudLeft\" tint=1></style></b>",
-        "BAZZAR_SEER_LAKES": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of sweet fruits, and bitter promises.   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "BAZAAR_SEER_LAKES": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of sweet fruits, and bitter promises.   <sprite name=\"CloudLeft\" tint=1></style></b>",
         "BAZAAR_SEER_GOOLAKE": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of sand beneath your feet.   <sprite name=\"CloudLeft\" tint=1></style></b>",
         "BAZAAR_SEER_FOGGYSWAMP": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of twisting roots.   <sprite name=\"CloudLeft\" tint=1></style></b>",
         "BAZAAR_SEER_FROZENWALL": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of quiet snowfall.   <sprite name=\"CloudLeft\" tint=1></style></b>",
@@ -170,8 +170,8 @@
         "DLC2__SAD": "----Stage & Monster-Based Alerts / Dialogue----",
         "FALSESONBOSS_DEATH_1": "This cannot be... my end.\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> The False Son shatters into dust. <sprite name=\"Skull\" tint=1></size></style>",
         "FALSESONBOSS_DEATH_2": "EVERYTHING... IS SO LOUD... AND SO QUIET.\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> Providence's shadow fades. <sprite name=\"Skull\" tint=1></size></style>",
-        "FALSESONBOSS_DEATH_3": "A... GIFT... JUST OUT OF REACH...\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> A false god meets it's end. <sprite name=\"Skull\" tint=1></size></style>",
-        "FALSESONBOSS_DEATH_4": "I... FEEL MYSELF... Breaking... again...\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> The wind picks up, smelling of electicity. <sprite name=\"Skull\" tint=1></size></style>",
+        "FALSESONBOSS_DEATH_3": "A... GIFT... JUST OUT OF REACH...\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> A false god meets its end. <sprite name=\"Skull\" tint=1></size></style>",
+        "FALSESONBOSS_DEATH_4": "I... FEEL MYSELF... Breaking... again...\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> The wind picks up, smelling of electricity. <sprite name=\"Skull\" tint=1></size></style>",
         "FALSESONBOSS_DEATH_5": "HE IS LAUGHING... STOP LAUGHING AT ME...\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> Mithrix chuckles in amusement. <sprite name=\"Skull\" tint=1></size></style>",
         "FALSESONBOSS_DEATH_6": "Shackles... locked in golden shackles...\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> The Aurelionite's chains shudder. <sprite name=\"Skull\" tint=1></size></style>",
 
@@ -198,7 +198,7 @@
         "BAZAAR_SEER_IRONALLUVIUM2": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of repelling forces.   <sprite name=\"CloudLeft\" tint=1></style></b>",
         "BAZAAR_SEER_NEST": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of frost and metal.   <sprite name=\"CloudLeft\" tint=1></style></b>",
         "BAZAAR_SEER_REPURPOSEDCRATER": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of an oasis.   <sprite name=\"CloudLeft\" tint=1></style></b>",
-        "BAZAAR_SEER_SOLUTIONALHAUNT": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of cavernouse depths.   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "BAZAAR_SEER_SOLUTIONALHAUNT": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of cavernous depths.   <sprite name=\"CloudLeft\" tint=1></style></b>",
 
         "DLC3__SAD": "----Stage & Monster-Based Alerts / Dialogue----",
         "CONDUITCANYON_SKIP_BARRIER": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   Intrusion detected: rerouting power to security team dispatch.   <sprite name=\"CloudLeft\" tint=1></style></b>",
