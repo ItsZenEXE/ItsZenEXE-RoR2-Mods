@@ -1,6 +1,13 @@
 # Changelog
 
-## 4.3.1 (Current Patch)
+## 4.3.2 (Current Patch)
+
+- Internally updated a lot of styling errors
+- This hopefully should have fixed a bug with Temporary items and a few other places where the color of the text from previous items/etc carried into dialogue or other text where it should not have.
+- Fixed many typos.
+- Adjusted wording on a few items.
+
+## 4.3.1
 
 - Updated github links
 - Updated README slightly

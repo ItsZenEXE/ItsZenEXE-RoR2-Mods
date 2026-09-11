@@ -1,6 +1,12 @@
 # Changelog
 
-## 4.3.1 (Current Patch)
+## 4.3.2 (Current Patch)
+
+- Internally updated a lot of styling errors
+- Fixed many typos.
+- Adjusted wording on a few items.
+
+## 4.3.1
 
 - Updated github links
 - Updated README slightly
