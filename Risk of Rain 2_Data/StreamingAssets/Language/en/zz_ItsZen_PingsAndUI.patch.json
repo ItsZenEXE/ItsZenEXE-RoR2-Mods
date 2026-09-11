@@ -108,7 +108,7 @@
 
 
         "ZenOrg2":{
-            "StartDLC1": "============DLC 1============="
+            "DLC1__Start": "============DLC 1============="
         },
         "DLC1__SIM": "----Simulacrum----",
         "INFINITETOWER_ADD_ITEM": "<b><style=cDeath>[WARNING]</style><style=cWorldEvent> {1} has been integrated into the Simulacrum...!</style></b>",
@@ -155,7 +155,7 @@
 
 
         "ZenOrg3":{
-            "StartDLC2": "============DLC 2============="
+            "DLC2__Start": "============DLC 2============="
         },
         "DLC2__BSD": "----Bazzar Seer / Dreams----",
         "BAZAAR_SEER_LAKESNIGHT": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of falls, erupting from the flora.   <sprite name=\"CloudLeft\" tint=1></style></b>",
@@ -183,7 +183,7 @@
 
 
         "ZenOrg4":{
-            "StartDLC3": "============DLC 3============="
+            "DLC3__Start": "============DLC 3============="
         },
         "DLC3__IN": "----Interactables / Pickups----",
         "ITEM_MODIFIER_TEMP": "{0} (<style=cIsTemporary>Temporary</style>)</style>",

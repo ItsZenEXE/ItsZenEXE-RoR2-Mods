@@ -136,7 +136,7 @@
         "EQUIPMENT_DEATHPROJECTILE_DESC": "Throw a cursed doll out that <style=cIsDamage>triggers</style> any <style=cIsDamage>On-Kill</style> effects you have every <style=cIsUtility>1</style> second for <style=cIsUtility>8</style> seconds.\n<style=cKeywordName>Base Cooldown: 45s</style><style=cKeywordName>Stacking Info</style><style=cSub><style=cStack>11 <style=cIsHealing>Fuel Cells</style></style> = <style=cIsUtility>100%+ uptime</style>\n<i>OR if the player has <style=cIsLunar>Gesture of the Drowned</style>:</i>\n<style=cStack>8 <style=cIsLunar>Gesture of the Drowned</style>/<style=cIsHealing>Fuel Cells</style></style> = <style=cIsUtility>100%+ uptime</style></style>",
         
         "ZenOrg2":{
-            "StartDLC1": "============DLC 1============="
+            "DLC1__Start": "============DLC 1============="
         },
         "DLC1__W": "----WHITE----",
         "ITEM_ATTACKSPEEDANDMOVESPEED_DESC": "Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>7.5%</style> <style=cStack>(+7.5% per stack, Linear)</style> and <style=cIsUtility>movement speed</style> by <style=cIsUtility>7%</style> <style=cStack>(+7% per stack, Linear)</style>.\n\n<style=cKeywordName>Stacking Info</style><style=cSub>At <style=cStack>2 Stacks</style>, <style=cIsDamage>Mocha</style> is equal to having <style=cStack>1</style> <style=cIsDamage>Paul's Goat Hoof</style> and <style=cStack>1</style> <style=cIsDamage>Soldier's Syringe</style>.</style>",
@@ -196,7 +196,7 @@
 
 
 		"ZenOrg3":{
-            "StartDLC2": "============DLC 2============="
+            "DLC2__Start": "============DLC 2============="
         },
         "DLC2__W": "----WHITE----",
         "ITEM_SPEEDBOOSTPICKUP_DESC": "Spawns orbs of energy nearby every <style=cIsUtility>10s</style> <style=cStack>(-10% per stack, Hyperbolic)</style>, giving <style=cIsUtility>+12% movement speed</style> up to <style=cIsUtility>3</style> <style=cStack>(+1 per stack, Linear)</style> <style=cIsUtility>times</style> for <style=cIsUtility>12s</style>.",
@@ -225,7 +225,7 @@
         "EQUIPMENT_HEALANDREVIVECONSUMED_DESC": "Plant a sprout at the target location which drops <style=cIsHealing>healing orbs</style> that heals for <style=cIsHealing>2% life</style>.\n<style=cKeywordName>Base Cooldown: 15s</style>",
 
 		"ZenOrg4":{	
-            "StartDLC3": "============DLC 3============="
+            "DLC3__Start": "============DLC 3============="
         },
         "DLC3__W": "----WHITE----",
         "ITEM_BARRIERONCOOLDOWN_DESC": "When a skill comes off cooldown, gain a <style=cIsDamage>temporary barrier</style> for <style=cIsHealing>1%</style> <style=cStack>(+0.25% per stack, Linear)</style> of your maximum health per second of the skill's base cooldown.",
