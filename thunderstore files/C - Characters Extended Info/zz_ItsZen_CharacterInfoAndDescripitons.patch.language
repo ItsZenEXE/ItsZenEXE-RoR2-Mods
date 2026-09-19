@@ -1,6 +1,6 @@
 {
-    "strings": {
-		"en":{
+    "en": {
+		"ZenOrg1":{
             "BG__Start": "============BASE GAME============="
         },
 		"COMMANDO_DESCRIPTION": "The Commando is a jack of all trades character that is reliable in all situations of the game. <style=cSub>\n\n< ! > Double Tap is powerful at both short and long range, firing quickly and activating many item effects.\n\n< ! > Effective use of his Tactical Dive is key to dodging heavily telegraphed attacks.\n\n< ! > Suppressive Fire can be used to repeatedly stun a single enemy, or stun a group.\n\n< ! > Phase Rounds can pass through walls use that to your advantage!</style>\n\n<color=#f1ce52>--- <sprite name=\"WIP\" tint=1> ---\n<style=cKeywordName>Health: 110 (+33 per level)</style>\n<style=cKeywordName>Health Regen: 1/s (+0.2 per level)</style>\n<style=cKeywordName>Damage: 12 (+2.4 per level)</style>\n<style=cKeywordName>Armor: 0</style>\n</color>",

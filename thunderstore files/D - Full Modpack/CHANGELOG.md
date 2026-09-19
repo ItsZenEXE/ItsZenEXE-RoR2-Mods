@@ -1,6 +1,10 @@
 # Changelog
 
-## 4.3.3 (Current Patch)
+## 4.3.4 (Current Patch)
+
+- Fixed a bug causing the character info mod to apply to every language, not just English.
+
+## 4.3.3
 
 - Corrected a TON of character info that was either outdated or just incorrect due to looking off the wiki early on and never correcting it. Sorry about that!
 
