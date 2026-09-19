@@ -1,6 +1,10 @@
 # Changelog
 
-## 4.3.2 (Current Patch)
+## 4.3.3 (Current Patch)
+
+- Corrected a TON of character info that was either outdated or just incorrect due to looking off the wiki early on and never correcting it. Sorry about that!
+
+## 4.3.2
 
 - Internally updated a lot of styling errors
 - This hopefully should have fixed a bug with Temporary items and a few other places where the color of the text from previous items/etc carried into dialogue or other text where it should not have.
