@@ -205,14 +205,53 @@
 
 
         "DLC3__PO": "----Portals and Orbs----",
-        "ACCESSCODES_PORTAL_WILL_OPEN": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   Access granted...   <sprite name=\"CloudLeft\" tint=1></style></b>",
-        "ACCESSCODES_RESET": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   Access denied...   <sprite name=\"CloudLeft\" tint=1></style></b>",
-        "ACCESSCODES_SOLUS_FIGHT_DEFEATED": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   Collective enemy identified. Integrating analytics...   <sprite name=\"CloudLeft\" tint=1></style></b>",
-        "ACCESSCODES_SPAWNED": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   Connection established...   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "ACCESSCODES_PORTAL_WILL_OPEN": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   Access granted..   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "ACCESSCODES_RESET": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   Access denied..   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "ACCESSCODES_SOLUS_FIGHT_DEFEATED": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   Collective enemy identified. Integrating analytics..   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "ACCESSCODES_SPAWNED": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   Connection established..   <sprite name=\"CloudLeft\" tint=1></style></b>",
         "ACCESSCODES_BOSS_BEGIN_TRIAL": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   Unbound signature detected. Beginning assimilation.   <sprite name=\"CloudLeft\" tint=1></style></b>",
-        "PORTAL_SOLUSSHOP_OPEN": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   A virtual portal appears...   <sprite name=\"CloudLeft\" tint=1></style></b>",
-        "PORTAL_SOLUSSHOP_WILL_OPEN": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   A virtual orb appears...   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "PORTAL_SOLUSSHOP_OPEN": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   A virtual portal appears..   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "PORTAL_SOLUSSHOP_WILL_OPEN": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   A virtual orb appears..   <sprite name=\"CloudLeft\" tint=1></style></b>",
 
+
+
+
+        "ZenOrg5":{
+            "DLC4__Start": "============DLC 4============="
+        },
+        "DLC4__IN": "----Interactables / Pickups----",
+        "CURSEDBOOK_READY_FOR_SACRIFICE": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   The N'tormat shudders in anticipation..   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "TRIALGONG_ACTIVATION_MESSAGE": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   She beckons..   <sprite name=\"CloudLeft\" tint=1></style></b>",
+
+
+        "DLC4__FE": "----Family Events----",
+        "FAMILY_LYNX": "<b><style=cDeath>[WARNING]</style><style=cWorldEvent> Something malicious is brewing..</style></b>",
+
+
+        "DLC4__BSD": "----Bazzar Seer / Dreams----",
+        "BAZAAR_SEER_SANCTUM": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of great vaulted halls.   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "BAZAAR_SEER_FUNGAL": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of a vast underground cavern.   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "BAZAAR_SEER_MIRE": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   You dream of a mire.   <sprite name=\"CloudLeft\" tint=1></style></b>",
+
+
+        "DLC4__SAD": "----Stage & Monster-Based Alerts / Dialogue----",
+        "WAKE_SPAWNED": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   A wave of dread fog rolls in...   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "QUEST_TRIAL_SUCCESS": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   Your reckoning wanes...   <sprite name=\"CloudLeft\" tint=1></style></b>",
+
+
+        "DLC4__TEL": "----Teleporter Alerts / Dialogue----",
+        "TELEPORTER_CATASTROPHE_LESSER_MINES": "<b><style=cDeath>[WARNING]</style><style=cWorldEvent> The dead strike back...</b></style>",
+        "TELEPORTER_CATASTROPHE_LESSER_DEATHPROMOTION": "<b><style=cDeath>[WARNING]</style><style=cWorldEvent> Your foes surge with necrotic might...</b></style>",
+        "TELEPORTER_CATASTROPHE_LESSER_BOMBS": "<b><style=cDeath>[WARNING]</style><style=cWorldEvent> N'kuhana's attention falls on you...</b></style>",
+        "TELEPORTER_CATASTROPHE_LESSER_LYNX": "<b><style=cDeath>[WARNING]</style><style=cWorldEvent> Movement in the corner of your eye...</b></style>",
+        "TELEPORTER_CATASTROPHE_MAJOR_CHAMPRUSH": "<b><style=cDeath>[WARNING]</style><style=cWorldEvent> The Soul-binding trial begins. Disaster is imminent.</style></b></style>",
+
+
+        "DLC4__PO": "----Portals and Orbs----",
+        "PORTAL_TRIAL_PREVIEW": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   An Anima Orb appears..   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "PORTAL_TRIAL_SPAWN": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   An Anima Portal appears..   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "PORTAL_CHAMP_RUSH_SPAWN": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   A ritual portal appears..   <sprite name=\"CloudLeft\" tint=1></style></b>",
+        "PORTAL_CHAMP_RUSH_EXIT_SPAWN": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   A portal to the mortal plane appears..   <sprite name=\"CloudLeft\" tint=1></style></b>",
 
 
 
