@@ -1,6 +1,10 @@
 # Changelog
 
-## 4.3.4 (Current Patch)
+## 4.3.5 (Current Patch)
+
+- Fixed some older descriptions that got changed in the Hallowed Concepts Launch.
+
+## 4.3.4
 
 - Fixed a bug causing the character info mod to apply to every language, not just English.
 

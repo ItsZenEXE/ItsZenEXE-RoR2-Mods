@@ -1,6 +1,18 @@
 # Changelog
 
-## 4.3.2 (Current Patch)
+## 4.3.5 (Current Patch)
+
+- Fixed some older descriptions that got changed in the Hallowed Concepts Launch.
+
+## 4.3.4
+
+- Skipped, changed in other modpack parts
+
+## 4.3.3
+
+- Skipped, changed in other modpack parts
+
+## 4.3.2
 
 - Internally updated a lot of styling errors
 - Fixed many typos.
