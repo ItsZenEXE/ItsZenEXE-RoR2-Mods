@@ -222,7 +222,11 @@
         "DLC4__IN": "----Interactables / Pickups----",
         "CURSEDBOOK_READY_FOR_SACRIFICE": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   The N'tormat shudders in anticipation..   <sprite name=\"CloudLeft\" tint=1></style></b>",
         "TRIALGONG_ACTIVATION_MESSAGE": "<b><style=cWorldEvent><sprite name=\"CloudRight\" tint=1>   She beckons..   <sprite name=\"CloudLeft\" tint=1></style></b>",
-
+        "SHRINE_CURSE_USE_MESSAGE_2P": "<style=cShrine><b>You begin to seek patronage of a higher power.</style></b></color>",
+        "SHRINE_CURSE_USE_MESSAGE": "<style=cShrine><b>{0} seeks patronage of a higher power.</style></b></color>",
+        "SHRINE_CATASTROPHE_USE_MESSAGE": "<style=cShrine><b>The soul-binding trial awaits...</style></b></color>",
+        "SHRINE_COMBAT_TROOP_USE_MESSAGE": "<style=cShrine><b>{0} has summoned {1}s led by a {2} to fight.</style></b></color>",
+        "SHRINE_COMBAT_TROOP_USE_MESSAGE_2P": "<style=cShrine><b>You have summoned {1}s led by a {2} to fight.</style></b></color>",
 
         "DLC4__FE": "----Family Events----",
         "FAMILY_LYNX": "<b><style=cDeath>[WARNING]</style><style=cWorldEvent> Something malicious is brewing..</style></b>",
