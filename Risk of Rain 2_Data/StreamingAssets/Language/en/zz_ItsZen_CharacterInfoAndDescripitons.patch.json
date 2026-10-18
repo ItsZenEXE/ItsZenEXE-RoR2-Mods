@@ -14,6 +14,8 @@
 
         "COMMANDO_SPECIAL_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Fire repeatedly for <style=cIsDamage>100% damage</style> per bullet. The number of shots increases with attack speed, equal to <style=cIsDamage>6</style> times the attack speed stat (<style=cIsDamage>6</style> bullets at base attack speed).\n<style=cKeywordName>Proc: 1/hit | Cooldown: 9s</style>",
         "COMMANDO_SPECIAL_ALT1_DESCRIPTION": "Throw a grenade that explodes for <style=cIsDamage>700% damage</style> 1 second after it's first bounce. Can hold up to 2.\n<style=cKeywordName>Proc: 1 | Cooldown: 5s</style>",
+        "COMMANDO_SPECIAL_ALT2_DESCRIPTION": "Throw 3 explosives that <style=cIsUtility>attach</style> to surfaces. When <style=cIsDamage>attacked</style>, they <style=cIsDamage>zap</style> enemies for <style=cIsDamage>400% damage</style>.",
+
 
         "COMMANDO_UTILITY_DESCRIPTION": "<style=cIsUtility>Roll</style> a short distance. Resets momentum while airborne.\n<style=cKeywordName>Cooldown: 4s</style>",
         "COMMANDO_UTILITY_ALT_DESCRIPTION": "<style=cIsUtility>Slide</style> on the ground for a short distance. You can <style=cIsDamage>fire while sliding</style>. Propels the player slightly forward and upward if used while airborne. \n<style=cKeywordName>Cooldown: 4s</style>",
@@ -26,6 +28,7 @@
         "HUNTRESS_PRIMARY_ALT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Draw back a volley of <style=cIsDamage>3</style> seeking arrows for <style=cIsDamage>3x100% damage</style>. Critical Strikes fire <style=cIsDamage>6</style> arrows.\n<style=cKeywordName>Proc: 0.7/hit</style>",
 
         "HUNTRESS_SECONDARY_DESCRIPTION": "Throw a seeking glaive that bounces up to <style=cIsDamage>6</style> times for <style=cIsDamage>250% damage</style>. Damage increases by <style=cIsDamage>10%</style> per bounce.\n<style=cKeywordName>Proc: 0.8/hit | Cooldown: 7s</style>",
+        "HUNTRESS_SECONDARY_ALT_DESCRIPTION": "Throw a spinning glaive for <style=cIsDamage>400% damage per second</style>. When catching the glaive, repeat the input to juggle the cyclone. Damage increases by <style=cIsDamage>+400%</style> per juggle.",
 
         "HUNTRESS_UTILITY_DESCRIPTION": "<style=cIsUtility>Disappear</style> and <style=cIsUtility>teleport</style> forward.\n<style=cKeywordName>Cooldown: 7s</style>",
         "HUNTRESS_UTILITY_ALT1_DESCRIPTION": "<style=cIsUtility>Agile</style>. <style=cIsUtility>Disappear</style> and <style=cIsUtility>teleport</style> a short distance. Can store up to <style=cIsUtility>3</style> charges.\n<style=cKeywordName>Cooldown: 2s</style>",
@@ -70,6 +73,7 @@
 		"ENGI_DESCRIPTION": "The Engineer is a unique class that requires planning and positioning to be successful.<style=cSub>\n\n< ! > Placing mines ahead of time can help cover flanks and tight corridors. \n\n< ! > The Engineer relies heavily on his Gauss Turrets - remember to place them in a location that is both safe and advantageous.\n \n< ! > His Bubble Shield can be a powerful tool against heavily telegraphed boss attacks - and it can protect your allies as well!\n\n< ! > Bouncing Grenades, while powerful, has a hard time hitting mobile targets. Try to keep your Turrets alive to deal with fast or flying monsters.</style>\n\n<color=#f1ce52>--- <sprite name=\"WIP\" tint=1> ---\n<style=cKeywordName>Health: 130 (+39 per level)</style>\n<style=cKeywordName>Health Regen: 1/s (+0.2 per level)</style>\n<style=cKeywordName>Damage: 14 (+2.8 per level)</style>\n<style=cKeywordName>Armor: 0</style>\n</color>",
 
         "ENGI_PRIMARY_DESCRIPTION": "Charge up to <style=cIsDamage>8</style> grenades that deal <style=cIsDamage>100% damage</style> each.\n<style=cKeywordName>Proc: 1/grenade</style>",
+        "ENGI_PRIMARY_ALT_DESCRIPTION": "Charge up a heavy laser that deals <style=cIsDamage>270%-630% damage per second</style>, and <style=cIsHealing>heals</style> turrets and drones.",
 
         "ENGI_SECONDARY_DESCRIPTION": "Place a two-stage mine that deals <style=cIsDamage>300% damage</style>, or <style=cIsDamage>900% damage</style> if fully armed. Can place up to 4.\n<style=cKeywordName>Proc: 1 | Cooldown: 8s</style>",
         "ENGI_SPIDERMINE_DESCRIPTION": "Place a robot mine that deals <style=cIsDamage>600% damage</style> when an enemy walks nearby. Can place up to 4.\n<style=cKeywordName>Proc: 1 | Cooldown: 8s</style>",
@@ -91,6 +95,7 @@
         "MAGE_SECONDARY_ICE_DESCRIPTION": "<style=cIsUtility>Freezing</style>. Charge up a <style=cIsDamage>piercing</style> nano-spear that deals <style=cIsDamage>400%-1200%</style> damage.\n<style=cKeywordName>Proc: 1 | Cooldown: 5s</style>",
 
         "MAGE_UTILITY_ICE_DESCRIPTION": "<style=cIsUtility>Freezing</style>. Create a barrier that hurts enemies for <style=cIsDamage>100% damage</style>.\n<style=cKeywordName>Proc: 1/hit | Cooldown: 12s</style>",
+        "MAGE_UTILITY_ALT_DESCRIPTION": "Fire a spread of shards that deal <style=cIsDamage>8x100% damage</style> and <style=cIsUtility>oil</style> enemies.",
 
         "MAGE_SPECIAL_FIRE_DESCRIPTION": "About 1/2 hits <style=cIsDamage>Ignite</style>. Burn all enemies in front of you for <style=cIsDamage>100% damage per hit</style>. (<style=cIsDamage>22 hits by default</style>) Does more hits with attack speed.\n<style=cKeywordName>Proc: 1/hit | Cooldown: 5s</style>",
         "MAGE_SPECIAL_LIGHTNING_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Burst into the sky, dealing <style=cIsDamage>800% damage</style>.\n<style=cKeywordName>Proc: 1 | Cooldown: 8s</style>",
@@ -121,6 +126,8 @@
 
         "TREEBOT_UTILITY_DESCRIPTION": "Fire a <style=cIsUtility>Sonic Boom</style> that <style=cIsDamage>Weakens</style> all enemies hit.\n<style=cKeywordName>Proc: 0 | Cooldown: 5.5s</style>",
         "TREEBOT_UTILITY_ALT1_DESCRIPTION": "<style=cIsHealth>20% HP</style>. Fire a <style=cIsUtility>Sonic Boom</style> that <style=cIsDamage>damages</style> enemies for <style=cIsDamage>550% damage</style>. <style=cIsHealing>Heals 10% Max HP for every target hit</style>.\n<style=cKeywordName>Proc: 0.5 | Cooldown: 5.5s</style>",
+        "TREEBOT_UTILITY_ALT2_DESCRIPTION": "<style=cIsHealth>20% HP</style>. Throw a flower that shoots for <style=cIsDamage>200%</style> damage. Use the <style=cIsUtility>Utility skill</style> on the flower to teleport to it, consuming it and healing for <style=cIsHealing>20% HP</style>. Can place up to two.",
+        "TREEBOT_UTILITY_ALT2_2_DESCRIPTION": "Teleport to the flower and consume it to heal <style=cIsHealing>20% HP</style>.",
 
         "TREEBOT_SPECIAL_DESCRIPTION": "<style=cIsHealth>25% HP</style>. Fire a flower that <style=cIsDamage>roots</style> for <style=cIsDamage>200% damage</style>. <style=cIsHealing>Heals 1.5% Max HP for every target hit</style>.\n<style=cKeywordName>Projectile Proc: 1 | Roots Proc: 0 | Cooldown: 12s</style>",
         "TREEBOT_SPECIAL_ALT1_DESCRIPTION": "Fire a bolt that deals <style=cIsDamage>330% damage</style> and <style=cIsDamage>injects</style> an enemy. On death, drop 2-8 <style=cIsHealing>healing fruits</style> that heal for <style=cIsHealing>25% HP</style>. Fruiting debuff lasts 10 seconds.\n<style=cKeywordName>Proc: 1 | Cooldown: 6s</style>",
@@ -153,6 +160,7 @@
         "CROCO_UTILITY_ALT1_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Leap in the air, dealing <style=cIsDamage>550% damage</style>. <style=cIsUtility>Reduce</style> the cooldown by <style=cIsUtility>2s</style> for every enemy hit.\n<style=cKeywordName>Proc: 1 | Cooldown: 10s</style>",
 
         "CROCO_SPECIAL_DESCRIPTION": "<style=cIsHealing>Poisonous</style>. Release a deadly disease that deals <style=cIsDamage>100% damage</style>. The disease spreads to up to <style=cIsDamage>20</style> targets.\n<style=cKeywordName>Proc: 1 | Cooldown: 10s</style>",
+        "CROCO_SPECIAL_ALT_DESCRIPTION": "<style=cIsHealing>Poisonous</style>. Emit a lingering cloud of toxic breath for <style=cIsDamage>240% damage per second</style>.",
 
 
         "BG__CA": "----Captain Start----",
@@ -314,8 +322,28 @@
             "DLC4__Start": "============DLC4============="
         },
 
+        "DLC4__AC": "----Acolyte Start----",
+        "ACOLYTE_DESCRIPTION": "The Acolyte is a close-range whirlwind of death, conducting sacrifices to unleash the Anima Harvester that is bound to her. Balance shall be restored to Petrichor V.<style=cSub>\r\n\r\n< ! > Quickstrikes are powerful, short range attacks that can be activated with Jump and Sprint during Blade Slice.\r\n\r\n< ! > Bola Throw creates harmless, attackable souls, which can be used to activate on-hit and on-kill effects.\r\n\r\n< ! > Acolyte is unable to heal normally. Sacrifice as many enemies as possible before your inevitable end!\r\n\r\n< ! > The Anima Harvester comes with a set of slow, yet powerful skills that are great for dealing with huge crowds of enemies.\r\n\r\n</style>",
 
-		
+        "ACOLYTE_PASSIVE_DESCRIPTION": "The Acolyte <style=cIsHealth>cannot heal</style>. All healing is converted into <style=cIsDamage>attack speed</style>.",
+        "ACOLYTE_ALTPASSIVE_DESCRIPTION": "The Acolyte <style=cIsHealth>cannot heal</style>. All healing and <style=cIsHealth>40% of damage taken</style> is converted into <style=cIsHealing>recoverable health</style> and <style=cIsDamage>attack speed</style>.",
+
+        "ACOLYTE_PRIMARY_DESCRIPTION": "<style=cIsUtility>Rapid</style>. Strike for <style=cIsDamage>150% damage</style>. Activate <style=cIsUtility>Jump</style> or <style=cIsUtility>Sprint</style> while holding primary to <style=cIsDamage>quickstrike</style> for <style=cIsDamage>200% damage</style>, up to <style=cIsUtility>3</style> times.",
+        "ACOLYTE_QUICKSTRIKE_TOOLTIP": "<style=cKeywordName>Quickstrike</style><style=cSub>Melee attack that interrupts enemies. The number of hits scales with <style=cIsDamage>attack speed</style>.",
+
+        "ACOLYTE_SECONDARY_DESCRIPTION": "<style=cIsUtility>Agile</style>. <Style=cIsDamage>Stunning</style>. Throw a bola that gathers up to <style=cIsDamage>5</style> enemies for <style=cIsDamage>200% damage</style>, then <style=cIsUtility>Extract</style> their souls towards you.",
+        "ACOLYTE_EXTRACTION_TOOLTIP": "<style=cKeywordName>Extraction</style><style=cSub>Separates an enemy's soul with <style=cIsHealth>30%</style> of its health.\r\n<style=cIsDamage>100%</style> of damage dealt to a soul is returned to its body.",
+        "ACOLYTE_SECONDARY_ALT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Throw a jar that deals <style=cIsDamage>150% damage</style> and <style=cIsUtility>haunts</style> enemies. <style=cIsUtility>Haunted</style> enemies take <style=cIsDamage>50% damage per second</style> and release seeking wights on death.",
+
+        "ACOLYTE_UTILITY_DESCRIPTION": "<style=cIsUtility>Agile</style>. <Style=cIsDamage>Stunning</style>. Throw a spinning glaive that deals <style=cIsDamage>200% damage per second</style>. Reactivate to dash to it, dealing <style=cIsDamage>300% damage</style>.",
+        "ACOLYTE_UTILITY_ALT_DESCRIPTION": "<style=cIsUtility>Agile</style>. <Style=cIsDamage>Stunning</style>. Throw a piercing glaive for <style=cIsDamage>400% damage</style>. Explodes on large enemies and terrain for <style=cIsDamage>400% damage</style>. Reactivate to dash for <style=cIsDamage>300% damage</style>.",
+        "ACOLYTE_UTILITY_DASH_DESCRIPTION": "Dash to your blade, dealing <style=cIsDamage>400% damage</style>.",
+
+        "ACOLYTE_SPECIAL_DESCRIPTION": "<style=cIsUtility>Rapid</style>. Deal <style=cIsDamage>1000% damage</style>, and gain 2 <style=cIsDamage>Convictions</style>. Kills grant an extra Conviction. At <style=cIsDamage>7</style> Convictions, invoke your <style=cIsHealth>Litany</style>.",
+        "KEYWORD_LITANY": "<style=cKeywordName>Litany</style><style=cSub>Activate to transform into your <style=cIsHealth>Litany form</style>. During the Litany, all <style=cIsHealth>missing health</style> is converted into <style=cIsHealing>recoverable health</style>.</style>",
+        "ACOLYTE_SPECIAL_TRANSFORM_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Transform into the <style=cIsDamage>Anima Harvester</style>. While transformed, convert all <style=cIsHealth>missing health</style> into <style=cIsHealing>recoverable health</style>.",
+        "ACOLYTE_SPECIAL_ALT_TRANSFORM_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Invoke an <style=cIsDamage>Echo of Acolyte</style>. During the Litany, your melee attacks hit an extra time, and all <style=cIsHealth>missing health</style> is converted into <style=cIsHealing>recoverable health</style>.",
+        
         "EndOfLangFile": "-----------------------------"
     }
 }

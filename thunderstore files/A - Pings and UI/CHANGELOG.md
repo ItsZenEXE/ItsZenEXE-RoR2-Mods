@@ -1,6 +1,11 @@
 # Changelog
 
-## 4.3.2 (Current Patch)
+## 4.4.0
+
+- Fixed some styling Errors
+- Added DLC4 Content (Let me know if I've missed anything!)
+
+## 4.3.2
 
 - Internally updated a lot of styling errors
 - This hopefully should have fixed a bug with Temporary items and a few other places where the color of the text from previous items/etc carried into dialogue or other text where it should not have.
